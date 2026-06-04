@@ -40,7 +40,7 @@
 ✔️ Qualifications \
 ✔️ Projects\
 ✔️ Contact Me\
-✔️ Footer
+✔️ Footer\
 
 To view a live example, **[click here](https://jatinchanyal.in/)**
 
