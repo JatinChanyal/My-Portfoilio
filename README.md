@@ -60,7 +60,7 @@ To view a live example, **[click here](https://jatinchanyal.in/)**
 
 #### Step 2
 
-- Build your code 🔨🔨🔨
+- Build your  code 🔨🔨🔨
 
 #### Step 3
 
