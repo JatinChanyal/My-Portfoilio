@@ -25,7 +25,7 @@
 
 ⭐ Star this repo on GitHub — it helps!
 
-## Features 📋
+## Features  📋
 
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
